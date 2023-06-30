@@ -1,0 +1,6 @@
+{
+    "python.analysis.extraPaths": [
+        "./sources",
+        "./diff_robot_control/diff_robot_control/EA"
+    ]
+}
